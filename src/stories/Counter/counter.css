@@ -1,0 +1,19 @@
+div {
+    margin-left: 20% !important;
+}
+
+h1 {
+    padding-left: 7%;
+    margin-bottom: 5%;
+    color: rgb(65, 42, 165);
+    font-size: 45px !important;
+    font-weight: bold;
+}
+
+button {
+    color: rgb(6, 5, 5);
+    font-size: 15px;
+    font-weight: bold;
+    min-width: 5%;
+    margin-top: 2%;
+}
